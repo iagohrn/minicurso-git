@@ -1,0 +1,1 @@
+Olá, esse arquivo faz parte do mini curso de git e github!
