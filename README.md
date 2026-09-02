@@ -1,1 +1,1 @@
-Olá, esse arquivo faz parte do mini curso de git e github!
+Olá, esse arquivo faz parte do mini curso de git e github e de github :D
